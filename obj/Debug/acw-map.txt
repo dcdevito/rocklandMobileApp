@@ -1,4 +1,0 @@
-RocklandCty.MainActivity, RocklandCty;md5cd544987c833a230ba8954f3e472fb02.MainActivity
-RocklandCty.MainActivity, RocklandCty, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5cd544987c833a230ba8954f3e472fb02.MainActivity
-RocklandCty.MainActivity;md5cd544987c833a230ba8954f3e472fb02.MainActivity
-rocklandcty.MainActivity;md5cd544987c833a230ba8954f3e472fb02.MainActivity
