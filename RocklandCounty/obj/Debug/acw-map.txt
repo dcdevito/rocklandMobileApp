@@ -1,0 +1,4 @@
+RocklandCounty.MainActivity, RocklandCounty;md521cb372630b556457d372b177b33f2a4.MainActivity
+RocklandCounty.MainActivity, RocklandCounty, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md521cb372630b556457d372b177b33f2a4.MainActivity
+RocklandCounty.MainActivity;md521cb372630b556457d372b177b33f2a4.MainActivity
+rocklandcounty.MainActivity;md521cb372630b556457d372b177b33f2a4.MainActivity
