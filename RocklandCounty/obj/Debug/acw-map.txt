@@ -1,3 +1,7 @@
+RocklandCounty.dialog_SignUp, RocklandCounty;md521cb372630b556457d372b177b33f2a4.dialog_SignUp
+RocklandCounty.dialog_SignUp, RocklandCounty, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md521cb372630b556457d372b177b33f2a4.dialog_SignUp
+RocklandCounty.dialog_SignUp;md521cb372630b556457d372b177b33f2a4.dialog_SignUp
+rocklandcounty.dialog_SignUp;md521cb372630b556457d372b177b33f2a4.dialog_SignUp
 RocklandCounty.MainActivity, RocklandCounty;md521cb372630b556457d372b177b33f2a4.MainActivity
 RocklandCounty.MainActivity, RocklandCounty, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md521cb372630b556457d372b177b33f2a4.MainActivity
 RocklandCounty.MainActivity;md521cb372630b556457d372b177b33f2a4.MainActivity
